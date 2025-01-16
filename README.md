@@ -66,11 +66,17 @@ Dashboard 1: Summary Page
 <img width="782" alt="image" src="https://github.com/user-attachments/assets/91e54c50-c196-4ba1-ac99-64c65962d662" />
 
 The Summary Dashboard offers a high-level view of the loan portfolio, providing key performance indicators (KPIs) that help assess the overall health and performance of the bank's lending operations:
+
 Total Loan Applications: 38.6K
+
 Total Funded Amount: $435.8M
+
 Total Amount Received: $473.5M
+
 Average Interest Rate: 12%
+
 Debt-to-Income (DTI) Ratio: 13.3%
+
 These KPIs provide a snapshot of the bank's scale and financial performance in lending, offering decision-makers a clear overview of operations.
 Loan Classification
 Good Loans (86.2%)
@@ -121,42 +127,49 @@ Debt Consolidation Loans (Highest Volume and Funded Amount)
 Total Applications: 18,214
 Funded Amount: $232.46M
 Amount Received: $253.80M
+
 Insight: Debt consolidation loans lead in both applications and funded amounts, indicating strong demand for managing high-interest debt.
 Recommendation: Focus marketing efforts on this category, offering attractive terms to capture more customers.
 Credit Card Loans (Second Highest in Funded Amount)
 Total Applications: 4,998
 Funded Amount: $58.89M
 Amount Received: $65.21M
+
 Insight: Credit card loans show strong demand, with significant funding and repayment.
 Recommendation: Offer specialized credit card loans tailored to customer needs, like travel or cashback cards.
 Home Improvement Loans
 Total Applications: 2,876
 Funded Amount: $33.35M
 Amount Received: $36.38M
+
 Insight: Home improvement loans show steady demand, suggesting customers are willing to invest in home upgrades.
 Recommendation: Partner with home improvement businesses to increase uptake of these loans.
 Car Loans
 Total Applications: 1,497
 Funded Amount: $10.22M
 Amount Received: $11.32M
+
 Insight: Car loans show moderate activity, indicating a steady market.
 Recommendation: Offer special promotional rates or partner with car dealerships to increase car loan applications.
 Small Business Loans
 Total Applications: 1,776
 Funded Amount: $24.12M
 Amount Received: $23.81M
+
 Insight: Small business loans have steady demand, with entrepreneurs seeking financing for business growth.
 Recommendation: Improve offerings with flexible terms and business consultancy services to attract more small business owners.
 Wedding Loans
 Total Applications: 928
 Funded Amount: $9.23M
 Amount Received: $10.27M
+
 Insight: Wedding loans, though smaller in volume, have strong repayment figures.
 Recommendation: Offer personalized wedding loan packages to boost uptake during peak seasons.
 Medical Loans
 Total Applications: 667
 Funded Amount: $5.53M
 Amount Received: $5.85M
+
 Insight: Medical loans, though fewer in number, represent a critical financing option for health-related expenses.
 Recommendation: Provide flexible repayment options for medical emergencies or long-term treatments.
 
